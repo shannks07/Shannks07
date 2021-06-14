@@ -146,7 +146,7 @@ button{
 }
 .home-section{
     min-height: 100vh;
-    background-image: url('../IMG_2337.jpg');
+    background-image: url('../img/IMG_2337.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
@@ -460,7 +460,7 @@ button{
 }
 .contact-section .contact-img .img-box{
     padding: 200px 0;
-    background-image: url(../IMG_0629.JPG);
+    background-image: url(../img/IMG_0629.JPG);
     background-size: cover;
     background-position: center;
 }
